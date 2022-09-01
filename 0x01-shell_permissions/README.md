@@ -1,1 +1,1 @@
-this describes what each script is for:
+to describe what each script does
